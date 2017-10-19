@@ -1,6 +1,10 @@
 System.out.println("Hello World alterado");
 
+int LMS, EAGAMES;
+LMS = 100;
+EAGAMES=99;
+
 
 //if (LMS>EAGAMES){
-//System.out.println("eviar contrato para Vinicius castro de Oliveira
+//System.out.println("eviar contrato para Vinicius castro de Oliveira");
 //}
