@@ -5,6 +5,6 @@ LMS = 100;
 EAGAMES=99;
 
 
-//if (LMS>EAGAMES){
-//System.out.println("eviar contrato para Vinicius castro de Oliveira");
-//}
+if (LMS>EAGAMES){
+System.out.println("eviar contrato para Vinicius castro de Oliveira");
+}
